@@ -84,7 +84,7 @@ If you found this useful, feel free to:
 
 ## 📬 Let’s Connect
 
-- 🌐 Website: [GVerse](https://GVerse.vercel.app)  
+- 🌐 Website: [GVerse](https://gunitverse.vercel.app)  
 - 💻 GitHub: [gunitag](https://github.com/GunitAgarwal2394)  
 - 💼 LinkedIn: [Gunit Agarwal](https://www.linkedin.com/in/gunit-agarwal2394)  
 - 📸 Instagram: [@gunit_ag](https://instagram.com/gunit_ag)  
